@@ -1,5 +1,5 @@
 # Algorithm-Programming-Project
-This program demonstrates the Selection Problem using the following sorting algorithms: Insertion Sort, HeapSort and Randomized-Select. The program uses an array with 5 indices, each with 20,000 random generated numbers from 0-32767 and runs tests on each index at increaments of 1,000. Each algorithm tested is ran on the same inital random array that is created before the first algorithm is ran.
+This program demonstrates the Selection Problem using the following sorting algorithms: Insertion Sort, HeapSort and Randomized-Select. The program uses an array with 5 indices, each with 20,000 random generated numbers from 0-32767 and runs tests on each index at increments of 1,000. Each algorithm tested is ran on the same initial random array that is created before the first algorithm is ran.
 
 In this case, ALG1 is the Insertion Sort, ALG2 is the HeapSort and ALG3 is the Randomized-Select algorithm.
 
